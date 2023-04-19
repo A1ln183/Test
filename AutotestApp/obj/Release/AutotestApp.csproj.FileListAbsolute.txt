@@ -1,0 +1,6 @@
+G:\ТГАСУ\Web-Compiler\AutotestApp\AutotestApp\bin\Release\AutotestApp.exe
+G:\ТГАСУ\Web-Compiler\AutotestApp\AutotestApp\obj\Release\AutotestApp.Form1.resources
+G:\ТГАСУ\Web-Compiler\AutotestApp\AutotestApp\obj\Release\AutotestApp.csproj.GenerateResource.cache
+G:\ТГАСУ\Web-Compiler\AutotestApp\AutotestApp\obj\Release\AutotestApp.csproj.CoreCompileInputs.cache
+G:\ТГАСУ\Web-Compiler\AutotestApp\AutotestApp\obj\Release\AutotestApp.exe
+G:\ТГАСУ\Web-Compiler\AutotestApp\AutotestApp\obj\Release\AutotestApp.csproj.AssemblyReference.cache

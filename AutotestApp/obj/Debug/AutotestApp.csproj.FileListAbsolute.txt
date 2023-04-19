@@ -1,0 +1,16 @@
+C:\Users\Nikolai\source\repos\AutotestApp\AutotestApp\bin\Debug\AutotestApp.exe
+C:\Users\Nikolai\source\repos\AutotestApp\AutotestApp\bin\Debug\AutotestApp.pdb
+C:\Users\Nikolai\source\repos\AutotestApp\AutotestApp\obj\Debug\AutotestApp.csproj.AssemblyReference.cache
+C:\Users\Nikolai\source\repos\AutotestApp\AutotestApp\obj\Debug\AutotestApp.csproj.CoreCompileInputs.cache
+C:\Users\Nikolai\source\repos\AutotestApp\AutotestApp\obj\Debug\AutotestApp.exe
+C:\Users\Nikolai\source\repos\AutotestApp\AutotestApp\obj\Debug\AutotestApp.pdb
+C:\Users\Nikolai\source\repos\AutotestApp\AutotestApp\obj\Debug\AutotestApp.Form1.resources
+C:\Users\Nikolai\source\repos\AutotestApp\AutotestApp\obj\Debug\AutotestApp.csproj.GenerateResource.cache
+Z:\Студенты\ \Технология программирования\AutotestApp\AutotestApp\bin\Debug\AutotestApp.exe
+Z:\Студенты\ \Технология программирования\AutotestApp\AutotestApp\bin\Debug\AutotestApp.pdb
+Z:\Студенты\ \Технология программирования\AutotestApp\AutotestApp\obj\Debug\AutotestApp.csprojAssemblyReference.cache
+Z:\Студенты\ \Технология программирования\AutotestApp\AutotestApp\obj\Debug\AutotestApp.Form1.resources
+Z:\Студенты\ \Технология программирования\AutotestApp\AutotestApp\obj\Debug\AutotestApp.csproj.GenerateResource.cache
+Z:\Студенты\ \Технология программирования\AutotestApp\AutotestApp\obj\Debug\AutotestApp.csproj.CoreCompileInputs.cache
+Z:\Студенты\ \Технология программирования\AutotestApp\AutotestApp\obj\Debug\AutotestApp.exe
+Z:\Студенты\ \Технология программирования\AutotestApp\AutotestApp\obj\Debug\AutotestApp.pdb
